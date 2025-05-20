@@ -24,5 +24,6 @@ This will start the built-in Tomcat server and will serve the website at 127.0.0
 
 # Modifying the Database
 
+
 This app uses an embedded H2 database to store app data. The admin panel for the DB can be found at
 127.0.0.1/h2-console
